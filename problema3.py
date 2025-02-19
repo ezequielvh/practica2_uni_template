@@ -34,7 +34,4 @@ n = len(A)
 
 max_subarray_sum(A, n)
 
-if __name__ == '__main__':
-    main()
-
 
