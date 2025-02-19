@@ -5,9 +5,6 @@ def es_palindromo(s):
 def main():
     S = input().strip()
     print(es_palindromo(S))
-
-if __name__ == '__main__':
-    main()
     
 es_palindromo(reconocer)
 es_palindromo(correr)
