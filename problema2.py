@@ -15,6 +15,5 @@ def main():
 son_permutaciones('aroma', 'romaa')
 son_permutaciones('arroz', 'lentejas')
 
-if __name__ == '__main__':
-    main()
+
 
